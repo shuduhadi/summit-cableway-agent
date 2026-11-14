@@ -91,8 +91,3 @@ One test failed on the first run: when asked "Is it open today?", the agent poin
 - [Wheelchair access](https://www.tablemountain.net/plan-your-visit/wheelchair-access-and-mobility-scooters)
 
 Prices valid 1 July 2026 – 30 June 2027. The Local is Lekker special ends 30 November 2026.
-
-## Author
-
-**Shudu Hadi** – Software Engineering student at WeThinkCode_, Cape Town
-[LinkedIn](https://www.linkedin.com/in/shudu-hadi) · [GitHub](https://github.com/shuduhadi)
